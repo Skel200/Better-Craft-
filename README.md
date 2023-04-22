@@ -17,4 +17,5 @@ Where to install Better Craft: The Minecraft We Deserved
 * Curseforge link- https://www.curseforge.com/minecraft/modpacks/better-craft-the-minecraft-we-deserved
 * Modrinth link- https://modrinth.com/modpack/better-craft-the-minecraft-we-deserve
 
-Reworked Mods
+Reworked Mods:
+Reworked Mods are upcoming mods being developed by Better Craft Studios. Join the discord to find out more.
