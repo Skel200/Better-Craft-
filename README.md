@@ -1,5 +1,5 @@
-# Better-Craft-Studios-
-A modding studio that cares a little too much about the game.
+# Better-Craft
+A modpack that cares a little too much about the game.
 
 Better Craft: The Minecraft We Deserved Modpack 
 
@@ -19,3 +19,5 @@ Where to install Better Craft: The Minecraft We Deserved
 
 Reworked Mods:
 Reworked Mods are upcoming mods being developed by Better Craft Studios. Join the discord to find out more.
+https://discord.gg/CJd9xHdXrp
+Reworked Mods will have their own GitHub repositories when development begins 
