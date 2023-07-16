@@ -15,6 +15,6 @@ Notable Features:
 
 
 Where to install Better Craft: The Minecraft We Deserved 
-* Curseforge link- https://www.curseforge.com/minecraft/modpacks/better-craft-the-minecraft-we-deserved
-* Modrinth link- https://modrinth.com/modpack/better-craft-the-minecraft-we-deserve
+* Curseforge link- https://www.curseforge.com/minecraft/modpacks/better-craftt
+* Modrinth link- https://modrinth.com/modpack/better-craft
 
